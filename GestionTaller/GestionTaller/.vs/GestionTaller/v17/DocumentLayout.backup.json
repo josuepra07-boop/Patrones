@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\GestionTaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861806BA-3381-65A4-97E9-F76D0DEE60E9}|..\\InventarioService\\InventarioService\\InventarioService.csproj|c:\\desarrollo_jp\\personal\\gestiontaller\\inventarioservice\\inventarioservice\\patterns\\observer\\materialcreadosubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861806BA-3381-65A4-97E9-F76D0DEE60E9}|..\\InventarioService\\InventarioService\\InventarioService.csproj|c:\\desarrollo_jp\\personal\\gestiontaller\\inventarioservice\\inventarioservice\\patterns\\observer\\auditoriamaterialobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861806BA-3381-65A4-97E9-F76D0DEE60E9}|..\\InventarioService\\InventarioService\\InventarioService.csproj|c:\\desarrollo_jp\\personal\\gestiontaller\\inventarioservice\\inventarioservice\\services\\materialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861806BA-3381-65A4-97E9-F76D0DEE60E9}|..\\InventarioService\\InventarioService\\InventarioService.csproj|c:\\desarrollo_jp\\personal\\gestiontaller\\inventarioservice\\inventarioservice\\patterns\\command\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861806BA-3381-65A4-97E9-F76D0DEE60E9}|..\\InventarioService\\InventarioService\\InventarioService.csproj|c:\\desarrollo_jp\\personal\\gestiontaller\\inventarioservice\\inventarioservice\\patterns\\command\\crearmaterialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861806BA-3381-65A4-97E9-F76D0DEE60E9}|..\\InventarioService\\InventarioService\\InventarioService.csproj|c:\\desarrollo_jp\\personal\\gestiontaller\\inventarioservice\\inventarioservice\\patterns\\observer\\logmaterialobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearMaterialCommand.cs",
+              "DocumentMoniker": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Command\\CrearMaterialCommand.cs",
+              "RelativeDocumentMoniker": "..\\InventarioService\\InventarioService\\Patterns\\Command\\CrearMaterialCommand.cs",
+              "ToolTip": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Command\\CrearMaterialCommand.cs",
+              "RelativeToolTip": "..\\InventarioService\\InventarioService\\Patterns\\Command\\CrearMaterialCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:20:04.819Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandInvoker.cs",
+              "DocumentMoniker": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Command\\CommandInvoker.cs",
+              "RelativeDocumentMoniker": "..\\InventarioService\\InventarioService\\Patterns\\Command\\CommandInvoker.cs",
+              "ToolTip": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Command\\CommandInvoker.cs",
+              "RelativeToolTip": "..\\InventarioService\\InventarioService\\Patterns\\Command\\CommandInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:20:01.889Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialService.cs",
+              "DocumentMoniker": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Services\\MaterialService.cs",
+              "RelativeDocumentMoniker": "..\\InventarioService\\InventarioService\\Services\\MaterialService.cs",
+              "ToolTip": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Services\\MaterialService.cs",
+              "RelativeToolTip": "..\\InventarioService\\InventarioService\\Services\\MaterialService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:22:55.431Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditoriaMaterialObserver.cs",
+              "DocumentMoniker": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Observer\\AuditoriaMaterialObserver.cs",
+              "RelativeDocumentMoniker": "..\\InventarioService\\InventarioService\\Patterns\\Observer\\AuditoriaMaterialObserver.cs",
+              "ToolTip": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Observer\\AuditoriaMaterialObserver.cs",
+              "RelativeToolTip": "..\\InventarioService\\InventarioService\\Patterns\\Observer\\AuditoriaMaterialObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:24:04.528Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogMaterialObserver.cs",
+              "DocumentMoniker": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Observer\\LogMaterialObserver.cs",
+              "RelativeDocumentMoniker": "..\\InventarioService\\InventarioService\\Patterns\\Observer\\LogMaterialObserver.cs",
+              "ToolTip": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Observer\\LogMaterialObserver.cs",
+              "RelativeToolTip": "..\\InventarioService\\InventarioService\\Patterns\\Observer\\LogMaterialObserver.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:26:05.255Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialCreadoSubject.cs",
+              "DocumentMoniker": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Observer\\MaterialCreadoSubject.cs",
+              "RelativeDocumentMoniker": "..\\InventarioService\\InventarioService\\Patterns\\Observer\\MaterialCreadoSubject.cs",
+              "ToolTip": "C:\\Desarrollo_JP\\Personal\\GestionTaller\\InventarioService\\InventarioService\\Patterns\\Observer\\MaterialCreadoSubject.cs",
+              "RelativeToolTip": "..\\InventarioService\\InventarioService\\Patterns\\Observer\\MaterialCreadoSubject.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:24:22.631Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

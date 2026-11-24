@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "PATRONES",
+    "Projects": [
+      {
+        "Path": "..\\InventarioService\\InventarioService\\InventarioService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SolicitudesService\\SolicitudesService\\SolicitudesService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
